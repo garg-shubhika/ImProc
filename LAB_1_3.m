@@ -1,4 +1,4 @@
-img = imread('C:\Users\dell\Downloads\lenna.jpg'); 
+img = imread('lenna.jpg'); 
 imgHalf=imresize(img, 0.5,"bicubic"); 
 [R, C, N] = size(imgHalf);                  % Get image size (R: row, C: column, N: channels)
 imgGray = rgb2gray(imgHalf);                % Get image grayscale
