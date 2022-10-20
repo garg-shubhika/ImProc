@@ -1,5 +1,5 @@
 %% Input processing
-img512 = imread('C:\Users\dell\Downloads\lenna.jpg');                                       % Load image
+img512 = imread('lenna.jpg');                                       % Load image
 img128 = imresize(img512, 0.25,"bicubic");                          % Resize image to 128x128
 
 %% Output
