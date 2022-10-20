@@ -1,5 +1,5 @@
 %% Input loading
-img = imread('C:\Users\dell\Downloads\lenna.jpg');                          % Load image
+img = imread('lenna.jpg');                          % Load image
 [R, C, N] = size(img);                              % Get image size (R: row, C: column, N: channels)
 
 %% Input processing
