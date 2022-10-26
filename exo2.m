@@ -1,5 +1,4 @@
 %Shubhika GARG
-%Cindy DO
 
 %linear filtering in the spatial domain
 %% Creating a matrix of 256*256 and 64*64 in the centre
