@@ -1,5 +1,4 @@
 %Shubhika GARG
-%Cindy DO
 
 %non-linear Filtrage
 %% Creating a matrix of 256*256 and 64*64 in the centre
