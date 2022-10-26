@@ -1,5 +1,5 @@
 %Shubhika GARG
-%Cindy DO
+
 %% Computing fourier transform of the image
 img=imread('lenna.jpg');
 im=rgb2gray(img);
